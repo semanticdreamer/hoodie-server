@@ -13,7 +13,7 @@
     "multicouch": ">=0.6.1",
     "hoodie-pocket": "0.0.12",
     "hoodie-plugins-manager": "git://github.com/hoodiehq/hoodie-plugins-manager.git#db_updates",
-    "local-tld-lib": "*",
+    "local-tld-lib": "0.10.*",
     "underscore": "1.4.4",
     "async": "0.2.7",
     "bytes": "0.2.1",
